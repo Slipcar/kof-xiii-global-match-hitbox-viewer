@@ -14,7 +14,7 @@ Overlay em tempo real para **The King of Fighters XIII: Global Match** (PC, vers
 ![Preview](img/box_types.png)
 ![Preview](img/kim_active.png)
 ![Preview](img/active_karate.png)
-![Preview](img/frame_meter.png)
+![Preview](img/frame_meter.gif)
 
 ## O que o programa faz
 - **Categorização por tipo de caixa**, com cor e nome:
