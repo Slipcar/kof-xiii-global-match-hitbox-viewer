@@ -10,10 +10,11 @@ Overlay em tempo real para **The King of Fighters XIII: Global Match** (PC, vers
 ---
 
 ## 📸 Preview
-![Preview](img/active.png)
-![Preview](img/active2.png)
-![Preview](img/active3.png)
-![Preview](img/frame_advantage.png)
+![Preview](img/menu.png)
+![Preview](img/box_types.png)
+![Preview](img/kim_active.png)
+![Preview](img/active_karate.png)
+![Preview](img/frame_meter.png)
 
 ## O que o programa faz
 - **Categorização por tipo de caixa**, com cor e nome:
@@ -78,12 +79,14 @@ Overlay em tempo real para **The King of Fighters XIII: Global Match** (PC, vers
 
 ---
 
-## Como usar
+## 🚀 Instalação e Uso
 
-1. Abra o KOF XIII Global Match e entre em uma partida (modo treino, versus, ou até um replay salvo).
-2. Rode o executável
-3. Aperte `F1` a qualquer momento para ver a lista de hotkeys sem sair do jogo.
-4. Aperte `Shift + Esc` para fechar o overlay.
+1. Vá até a aba [Releases](../../releases) deste repositório.
+2. Baixe o arquivo `.exe` mais recente.
+3. Abra o KOF XIII Global Match e entre em uma partida (modo treino, versus, ou até um replay salvo).
+4. Execute a ferramenta.
+5. Aperte `F1` a qualquer momento para ver a lista de hotkeys sem sair do jogo.
+6. Aperte `Shift + Esc` para fechar o programa.
 
 ---
 
